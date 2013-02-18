@@ -1,0 +1,201 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153703603
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153703864
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153707292
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153707435
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1355153712198
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1355153714630
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153716754
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153717020
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153721854
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153722370
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153724274
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153724411
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153747487
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153748673
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153769943
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153771372
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153776345
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.open.editor",1355153776363
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153794130
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153794511
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153796347
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153796775
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153799848
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153802662
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153804771
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153804847
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153809267
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153810766
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153814688
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153814783
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153821272
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153823609
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153854785
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153857864
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153858022
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153880751
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153882377
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.edit.text.contentAssist.proposals",1355153888023
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153904497
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153905409
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153905834
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153915569
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153917599
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153917736
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153938298
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153939304
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1355153943671
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153943805
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1355153943825
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153949621
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1355153951628
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153952159
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1355153952179
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153953710
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355153965910
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355153966216
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355153969854
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153969973
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153980308
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355153981629
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355153983577
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355154099068
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355154206745
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155876710
+activated,view,org.eclipse.ui.console,3.5.100.v20111007_r372,"org.eclipse.ui.console.ConsoleView",1355155881980
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155882116
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155895232
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155896443
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155912026
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355155913544
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1355155914731
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155918017
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155928644
+opened,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355155928862
+activated,editor,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.CompilationUnitEditor",1355155928912
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355155929681
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355156033674
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1355156036551
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355156039348
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355156039693
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355156054201
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355156054537
+executed,command,org.eclipse.ui.ide,3.7.0.v20110928-1505,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1355156081996
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355156083969
+executed,command,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.edit.text.java.format",1355156084239
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.save",1355156084689
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355156086679
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355156435152
+activated,view,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui.PackageExplorer",1355156437629
+executed,command,org.eclipse.ui,3.7.0.v20110928-1505,"org.eclipse.ui.file.refresh",1355156438001
+deactivated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355156442567
+activated,workbench,org.eclipse.ui.workbench,3.7.1.v20120104-1859,"",1355156476741
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.cwt.feature_0.9.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477717
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.effects.stw.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477719
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.examples.feature_1.0.4.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477720
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.examples.release.feature_1.0.4.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477721
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477722
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.calendarcombo.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477723
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.cdatetime.feature_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477724
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.compositetable.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477725
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.gallery.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477727
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.ganttchart.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477728
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.grid.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477728
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.oscilloscope.feature_1.0.1.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477730
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.paperclips.feature_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477731
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.pgroup.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477732
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.pshelf.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477733
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.tablecombo.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477734
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.xviewer.feature_0.9.9.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477735
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.cwt_0.9.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477736
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.cwt.source_0.9.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477738
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477739
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477740
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477741
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477742
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.examples_1.0.4.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477743
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.jface.cdatetime_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477744
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.jface.cdatetime.source_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477745
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.core_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477747
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.core.source_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477749
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.widgets_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477750
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.widgets.source_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477751
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477752
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo.example_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477753
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo.example.source_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477754
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477756
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.cdatetime_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477757
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.cdatetime.example_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477758
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.cdatetime.example.source_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477759
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.cdatetime.source_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477760
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.compositetable_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477762
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.compositetable.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477763
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.gallery_0.5.3.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477768
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.gallery.example_0.5.3.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477779
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.gallery.example.source_0.5.3.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477781
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.cwt.feature_0.9.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477788
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.effects.stw.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477791
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.gallery.source_0.5.3.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477792
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.examples.feature_1.0.4.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477794
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.ganttchart_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477794
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.examples.release.feature_1.0.4.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477795
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.ganttchart.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477795
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477795
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.ganttchart.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477796
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.ganttchart.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477797
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.calendarcombo.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477797
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.cdatetime.feature_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477800
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.compositetable.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477802
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.grid_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477803
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.grid.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477803
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.gallery.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477807
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.grid.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477811
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.ganttchart.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477811
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.grid.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477811
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.oscilloscope.feature_1.0.1.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477812
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.paperclips.feature_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477813
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.pgroup.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477814
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.pshelf.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477815
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.grid.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477818
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.tablecombo.feature_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477820
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.oscilloscope_1.1.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477820
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/features/org.eclipse.nebula.widgets.xviewer.feature_0.9.9.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477820
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.oscilloscope.example_1.0.1.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477821
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.oscilloscope.example.source_1.0.1.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477822
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.oscilloscope.source_1.1.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477823
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pgroup_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477824
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.cwt_0.9.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477821
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pgroup.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477826
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.cwt.source_0.9.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477828
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477828
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477829
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477832
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pgroup.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477840
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.effects.stw.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477842
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pgroup.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477843
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pshelf_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477844
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pshelf.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477845
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pshelf.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477847
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.examples_1.0.4.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477850
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.jface.cdatetime_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477850
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.jface.cdatetime.source_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477851
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.core_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477853
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.pshelf.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477854
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.tablecombo_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477855
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.tablecombo.example_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477856
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.core.source_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477861
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.widgets_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477865
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.tablecombo.example.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477867
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.tablecombo.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477870
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.paperclips.widgets.source_2.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477871
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477885
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo.example_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477887
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.xviewer_0.9.9.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477889
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.xviewer.example_0.9.9.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477891
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo.example.source_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477893
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.calendarcombo.source_1.0.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477895
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.xviewer.example.source_0.9.9.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477897
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.cdatetime_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477942
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.xviewer.source_0.9.9.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477942
+error,log,,,"Invalid ZIP archive: lib/nebulaPack/plugins/org.eclipse.nebula.widgets.cdatetime.example_0.14.0.201211280956.jar.pack.gz [in GraphicalInterface]",1355156477949

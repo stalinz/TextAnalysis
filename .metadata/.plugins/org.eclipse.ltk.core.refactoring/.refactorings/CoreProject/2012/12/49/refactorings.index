@@ -1,0 +1,24 @@
+1354391040831	Delete element
+1354391294820	Extract constant 'HASH_TABLE_SIZE'
+1354391520538	Delete element
+1354392409915	Extract constant 'ENDL'
+1354392684239	Rename type 'Standart'
+1354392895967	Extract constant 'HASH_TABLE_SIZE'
+1354393245037	Rename type 'Vacabulary'
+1354393389397	Rename field 'HASH_TABLE_SIZE'
+1354393488020	Extract constant 'CONSTRUCTOR_ASSERT_ERROR'
+1354393902975	Extract method 'defaultStandartVacabularyTest'
+1354394072297	Move compilation units
+1354395319342	Rename type 'RootVacabulary'
+1354395575668	Extract constant 'NonLiteral'
+1354395626700	Extract method 'cleanWord'
+1354395697326	Move compilation unit
+1354395950620	Extract constant 'ENDL'
+1354396158421	Extract constant 'SAVED_ERROR'
+1354396404613	Extract method 'listElementExist'
+1354396476875	Move type 'ListElement' to new file
+1354396575574	Extract method 'cellExist'
+1354397358734	Extract local variable 'testWord'
+1354397496639	Rename type 'RootVacabularyTest'
+1354397553908	Delete element
+1354398028736	Change method 'allWords'

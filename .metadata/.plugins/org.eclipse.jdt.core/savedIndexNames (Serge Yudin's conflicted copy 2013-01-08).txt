@@ -1,0 +1,22 @@
+INDEX VERSION 1.126+/home/serge/Dropbox/project/AlgoAnsStruct_kursach/.metadata/.plugins/org.eclipse.jdt.core
+1516919863.index
+994240318.index
+3181136795.index
+417373247.index
+1648329193.index
+2420491456.index
+2800673592.index
+1159935248.index
+2210154982.index
+2683054613.index
+1867037349.index
+2912222014.index
+1698757907.index
+45647795.index
+3409222921.index
+436744212.index
+847003763.index
+1791281947.index
+190939315.index
+2456322530.index
+1230503809.index

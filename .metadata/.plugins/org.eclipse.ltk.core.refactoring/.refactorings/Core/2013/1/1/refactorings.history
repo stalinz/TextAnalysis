@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract constant &apos;TEST_TEXT&apos; from expression &apos;&quot;hello world is a most popular programm of the world, but \&quot;foo bar\&quot; - standart example pair&quot;&apos;&#x0A;- Original project: &apos;Core&apos;&#x0A;- Constant name: &apos;TEST_TEXT&apos;&#x0A;- Constant expression: &apos;&quot;hello world is a most popular programm of the world, but \&quot;foo bar\&quot; - standart example pair&quot;&apos;&#x0A;- Declared visibility: &apos;private&apos;&#x0A;- Replace occurrences of expression with constant" description="Extract constant &apos;TEST_TEXT&apos;" flags="786432" id="org.eclipse.jdt.ui.extract.constant" input="/tests&lt;org.yudin.tests{AnalyzerTest.java" name="TEST_TEXT" qualify="false" replace="true" selection="982 0" stamp="1357214717844" version="1.0" visibility="2"/>
+</session>

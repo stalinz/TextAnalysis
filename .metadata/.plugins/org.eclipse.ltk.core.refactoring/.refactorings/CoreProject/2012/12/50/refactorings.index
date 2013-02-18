@@ -1,0 +1,10 @@
+1354878929385	Rename package 'analyzer'
+1354879030318	Encapsulate field 'wordsMathCount'
+1354879034195	Encapsulate field 'wordsAllCount'
+1354880305305	Encapsulate field 'minimalWordLength'
+1354880825109	Extract method 'itsWord'
+1354903372296	Move compilation units
+1354905959745	Move file
+1354905971546	Rename resource 'resultTesTFile'
+1354906584544	Extract constant 'STANDART_VACABULARY_PATH'
+1354907074042	Extract method 'getRatio'

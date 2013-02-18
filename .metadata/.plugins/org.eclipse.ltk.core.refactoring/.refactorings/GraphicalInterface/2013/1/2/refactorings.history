@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;file&apos; from expression &apos;new File(&quot;defaultDictonary&quot;)&apos;&#x0A;- Original project: &apos;GraphicalInterface&apos;&#x0A;- Variable name: &apos;file&apos;&#x0A;- Destination method: &apos;org.yudin.views.MainView.MainView()&apos;&#x0A;- Variable expression: &apos;new File(&quot;defaultDictonary&quot;)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;file&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;org.yudin.views{MainView.java" name="file" replace="true" selection="1727 33" stamp="1357555840697" version="1.0"/>
+</session>
